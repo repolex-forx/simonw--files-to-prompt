@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/files-to-prompt/commit/1b234ff6dccb2ca3e56b5c256696558fb85306dc",
       "git:hexsha": "1b234ff6dccb2ca3e56b5c256696558fb85306dc",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.6"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.6",
+      "repolex:parsedAt": "2026-10-15T09:06:16.181725+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/files-to-prompt/commit/38b761112517877b0aee43c218dfd94792118d16",
