@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "files-to-prompt",
+  "versions": [
+    {
+      "commit": "1b234ff6dccb2ca3e56b5c256696558fb85306dc",
+      "tag": "0.6",
+      "parsed_at": "2026-10-15T09:06:16.182219+00:00"
+    }
+  ]
+}
